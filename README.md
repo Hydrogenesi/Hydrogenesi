@@ -246,7 +246,7 @@ This document outlines a comprehensive framework that integrates the stages of s
 -	**Belt Migration**: Inner core.  
 -	**Fuel**: Metallic hydrogen.  
 -	**Process**: Double CNO Cycles, Triple-Alpha Process lead to the expansion of the galactic nucleus to a metastable metallic hydrogen state.  
--	**State**: Self-supporting, self-replicating metallic hydrogen fuel cell.  
+-	**State**: Self-supporting, self-replicating metallic hydrogen fuel cell.  Becomes metastable
 -	**Event**: Meiosis - The splitting of a morphed atomic metallic (hydrogen) atom. This is our Sun.  
 -	**Outcome**: Supernova and formation of a barred spiral galaxy, leading to the birth of two "Mama Suns" (Infinity’s End Stars).  
   
@@ -256,7 +256,7 @@ This document outlines a comprehensive framework that integrates the stages of s
 -	**Process**: Extreme compression double CNO cycle maintains the galactic nucleus.  - **State**: Self-supporting, self-replicating metallic hydrogen fuel cell.  
   
 **End Stages**:  
--	**Event**: Supernova forms an elliptical galaxy or morphs into a magnetar, a highly magnetized neutron star.  
+-	**Event**: Supernova forms an elliptical galaxy or morphs into a magnetar, a highly magnetized neutron star.  **Backwards** Elliptical galaxy is the apex of the hydrogen atom
   
 ### Key Forces in Stellar Evolution and TOE  
   
