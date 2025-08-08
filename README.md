@@ -204,8 +204,9 @@ G: Gravitational constant (6.67408e-11 N m^2 kg^-2)  c: Speed of light (29979245
 T: Temperature (K)  
 M: Mass (kg)  
 L: Luminosity (W)  
-R: Radius (M)  into your detailed framework of stellar evolution and cosmic creation. The 
-TOE seeks to unify all fundamental forces and particles into a single theoretical framework.  ## Abstract  
+R: Radius (M)  into your detailed framework of stellar evolution and cosmic creation.
+
+The TOE seeks to unify all fundamental forces and particles into a single theoretical framework.  ## Abstract  
 This document outlines a comprehensive framework that integrates the stages of stellar evolution with the Theory of Everything (TOE). It begins with the accretion phase and progresses through various phases of star formation and transformation. Key processes and forces involved in stellar nucleosynthesis, such as the proton-proton chain, CNO cycle, and triple-alpha process, are detailed. The document emphasizes hydrogen's role as the foundational element driving the universe's creation and transformation, and incorporates TOE principles to unify these concepts.  
   
 ## The End of Infinity’s Darkness  
@@ -248,11 +249,11 @@ This document outlines a comprehensive framework that integrates the stages of s
 -	**Process**: Double CNO Cycles, Triple-Alpha Process lead to the expansion of the galactic nucleus to a metastable metallic hydrogen state.  
 -	**State**: Self-supporting, self-replicating metallic hydrogen fuel cell.  Becomes metastable
 -	**Event**: Meiosis - The splitting of a morphed atomic metallic (hydrogen) atom. This is our Sun.  
--	**Outcome**: Supernova and formation of a barred spiral galaxy, leading to the birth of two "Mama Suns" (Infinity’s End Stars).  
+-	**Outcome**: Supernova and formation of a barred spiral galaxy, leading to the birth of two "Mama Suns" (Infinity’s End Stars).  Two seeds for life
   
 **Super Massive Giant**:  
 -	**Belt Migration**.  
--	**Fuel**: Metallic helium.  
+-	**Fuel**: Metallic metastable hydrogen 
 -	**Process**: Extreme compression double CNO cycle maintains the galactic nucleus.  - **State**: Self-supporting, self-replicating metallic hydrogen fuel cell.  
   
 **End Stages**:  
